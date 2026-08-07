@@ -100,3 +100,191 @@ Cada dibujo fue realizado considerando medidas reales y probado mediante circuit
 Gracias a KiCad, aprendí a rutear las conexiones, por lo que ya no solo acomodé los componentes, sino que realicé todo el diseño por completo. Ahora, aunque todavía estoy aprendiendo cosas, puedo decir que el diseño en PCB que he realizado hasta ahora ha sido el más pensado, desarrollado y complejo que he hecho. No porque use muchas conexiones o demasiados componentes, sino porque he hecho lo posible para hacerlo lo mejor que se pueda.
 
 ---
+
+# 2. Filosofía
+
+## ¿Qué es una VivreCard?
+
+Una VivreCard es un regalo simbólico que refleja mis sentimientos, aprecio, cariño y el valor que le tengo a una persona, amigo o alguien cercano a mí. Más que un simple regalo como un peluche, una cadena, un libro o cualquier otra cosa que se pueda comprar, es un objeto diseñado completamente por mí, personalizado para esa persona y creado para representar el vínculo que existe entre nosotros.
+
+Una VivreCard es un recuerdo que expresa dicho vínculo; algo que, incluso si el tiempo o la vida nos alejan, pueda hacerle recordar que alguna vez hubo algo entre nosotros. No se trata únicamente del amor que existe en una relación de pareja: también puede representar una amistad, una relación familiar o cualquier otro vínculo que tenga un significado importante.
+
+Lo que diferencia a una VivreCard de una PCB común es precisamente su valor emocional. Su propósito no es solamente observar el circuito que genera la señal para que los LEDs se enciendan, sino poder ver el tiempo que invertí en ella, todo lo que aprendí para construirla y, sobre todo, lo que hice pensando en esa persona.
+
+---
+
+## ¿Por qué existe?
+
+La VivreCard existe para dejarle claro a esa persona el papel que tiene o tuvo en mi vida. Para decirle que no es simplemente un conocido, sino alguien cercano; alguien que me acompañó, que me apoyó y que compartió momentos conmigo. Incluso si existen diferencias entre nosotros, eso no borra las experiencias buenas que vivimos.
+
+Quiero que pueda funcionar como una especie de recuerdo de lo que fuimos. Así como una estatua puede permanecer durante siglos y permitir que otras personas recuerden que alguien existió y que algo ocurrió, me gustaría que una VivreCard pudiera conservar una pequeña parte de un vínculo incluso cuando el tiempo haya pasado.
+
+Existe para recordar, para dar y para expresar mi amor y cariño de la mejor manera que sé hacerlo.
+
+También existe porque me gusta unir mis pasatiempos y las cosas que disfruto con las personas que aprecio. Poder tomar aquello que me gusta, aprender, diseñar y construir algo con ello para entregárselo a alguien me hace sentir bien. Es una manera de darle una parte de mí.
+
+---
+
+## ¿Qué significa regalar una VivreCard?
+
+Regalar una VivreCard representa el valor que tiene para mí, en ese momento, nuestra amistad o nuestro vínculo.
+
+Creo que una de las cosas más valiosas que se pueden dar a otra persona es el propio tiempo. Dejar algunas cosas de lado, dedicar horas a pensar en alguien y crear algo mientras tienes a esa persona en mente le da un valor que muchas veces no puede verse a simple vista.
+
+Como dijo el zorro en El Principito:
+
+"Solo con el corazón se puede ver claramente; lo esencial es invisible a los ojos."
+
+Para mí, algo parecido ocurre con una VivreCard. Su verdadero valor no está únicamente en el objeto que la persona puede ver, sino en todo aquello que existe detrás de él y que nadie más puede observar directamente.
+
+También pienso en la rosa del Principito. Hay millones de rosas, pero la suya es única porque él le dedicó tiempo, la cuidó y creó un vínculo con ella.
+
+Con los regalos ocurre algo parecido. Tal vez una persona prefiera un libro, una cadena u otra cosa que pueda comprar y que realmente quiera. Eso no hace que ese regalo tenga menos valor simbólico; también puede expresar mucho cariño.
+
+Pero para mí existe algo especial en entregar algo que fue pensado, diseñado y creado específicamente para una persona.
+
+Es un regalo único para un vínculo único.
+
+---
+
+## ¿Qué representa VivreCore?
+
+VivreCore es una de las dos partes de la VivreCard. El nombre surge de la idea de un núcleo o centro: una parte que concentra aquello que mantiene unido y funcionando al conjunto.
+
+Dentro de la VivreCard, VivreCore es la parte encargada de la alimentación, su regulación y la carga de la batería. También contiene el circuito base que genera el efecto de respiración de los LEDs que formarán la inicial de la persona en la PCB A.
+
+Desde el punto de vista técnico, es una parte fundamental del funcionamiento de la VivreCard. Sin una fuente de alimentación, un circuito no puede funcionar. Sin embargo, su importancia dentro del proyecto no se limita a lo técnico.
+
+Filosóficamente, VivreCore me representa a mí.
+
+En ella se encuentran muchas de las cosas que forman parte de mi identidad y de aquello que me gusta. La electrónica es el medio mediante el cual expreso todo esto. En la serigrafía está mi flor, un símbolo que me representa desde hace años y que coloco prácticamente en todo lo que hago. Para mí, si algo lleva esa flor, tiene un valor sentimental.
+
+También está mi firma, Orión, mi constelación favorita, y referencias a mi música favorita, como Salad Days y This Old Dog de Mac DeMarco. También está presente One Piece, que es una de mis series favoritas.
+
+Las personas cercanas a mí probablemente reconocerían muchas de estas cosas porque son parte de los temas que más disfruto hablar y compartir: Mac DeMarco, One Piece, la electrónica, las matemáticas y las estrellas.
+
+VivreCore es idéntica para todas las personas que reciban una VivreCard. No solamente porque hacerlo así sea más sencillo o económico, sino porque para todos ellos sigo siendo la misma persona. No tengo que convertirme en alguien diferente dependiendo de quién esté frente a mí.
+
+Esta es la parte que me representa.
+
+También representa mi interés por aprender y mi pasión por descubrir y construir cosas que realmente me interesan. VivreCore es la primera gran parte de todo este proyecto que he diseñado y desarrollado, y será la base sobre la cual se construirá cada PCB A.
+
+---
+
+## ¿Qué representa la PCB A?
+
+En proceso...
+
+Todavía no he terminado de definir completamente qué quiero que sea la PCB A. Antes tenía una idea más concreta, pero ahora quiero desarrollarla mejor y hacerla más personal y pulida.
+
+Por ahora, sé que esta parte representa a la persona que recibe la VivreCard.
+
+Esto se refleja incluso físicamente: la PCB tendrá la inicial de esa persona y su forma no será exactamente igual a la de ninguna otra. Cada una tendrá un acabado diferente y los colores de los LEDs serán escogidos pensando en esa persona, sin que necesariamente lo sepa de antemano.
+
+También cambiará el arreglo de LEDs que rodea la inicial. Estos elementos serán elegidos de forma discreta y estarán relacionados con la persona que recibirá esa VivreCard.
+
+Todavía queda mucho por definir, pero la idea fundamental permanece: VivreCore me representa a mí y la PCB A representa a la persona que recibe la VivreCard.
+
+---
+
+## ¿Por qué está dividida en dos partes?
+
+Si lo vemos desde un punto de vista más filosófico, la división tiene un significado muy claro: VivreCore me representa a mí y la PCB A representa a la otra persona.
+
+Sin embargo, no quiero que el mensaje sea que una de las dos partes es más importante que la otra.
+
+Técnicamente, VivreCore es necesaria para que la PCB A pueda funcionar, pero también es cierto que VivreCore, por sí sola, no puede mostrar todo su potencial. En ella solo existe una pequeña parte de aquello que finalmente será la VivreCard. La PCB A necesita a VivreCore para recibir alimentación y utilizar sus señales, pero VivreCore también necesita a la PCB A para convertirse en aquello para lo que fue diseñada.
+
+Ambas se necesitan.
+
+Para mí, esto representa el vínculo entre dos personas.
+
+Una relación necesita comunicación, conexión y unión. Ninguna de las dos personas tiene que dejar de ser quien es, pero juntas pueden formar algo que no existiría de la misma manera por separado.
+
+Por eso la VivreCard está dividida en dos partes.
+
+No porque una sea la mitad de la otra, sino porque cada una representa a una persona y ambas se unen para formar algo que ninguna podría representar por sí sola.
+
+--
+
+## ¿Qué significa que cada VivreCard sea única?
+
+Me gustaría que, si en algún momento del futuro mis amigos ven la VivreCard o se acuerdan de ella, puedan recordarme de la mejor manera posible.
+
+No soy la mejor persona y sé que las relaciones cambian. Las personas crecen, toman caminos diferentes y algunas veces dejan de formar parte de nuestras vidas. Pero eso no significa que las experiencias que vivimos dejen de haber sido reales.
+
+Quiero que puedan recordar las risas, los momentos y todo aquello que compartimos. Muchas de esas cosas quizá no vuelvan a repetirse de la misma manera cuando seamos adultos, porque nosotros mismos ya no seremos las mismas personas que fuimos en ese momento.
+
+Si algún día esa VivreCard sigue funcionando y ha sido cuidada durante muchos años, me gustaría que pudiera convertirse en un recuerdo de nuestra amistad y de nuestro vínculo.
+
+Y si algún día ya no somos amigos, o estamos muy separados, me gustaría que pudiera recordarles que el cariño que existió fue real.
+
+Al escribir esto también me di cuenta de algo que antes me daba miedo.
+
+Por momentos pensé que quizá una VivreCard tenía demasiado significado y que algún día no encontraría a alguien que realmente fuera digno de recibir algo así. Pero creo que nunca se pierde nada por amar, por querer o por haberle dado importancia a alguien.
+
+Incluso si en el futuro ya no somos nada, o simplemente me convierto en un recuerdo lejano de una etapa de su vida, me gustaría que pudiera recordar lo que existió en aquel momento.
+
+---
+
+## ¿Qué quiero que permanezca?
+
+Me gustaría que, si en algún momento del futuro mis amigos ven la VivreCard o se acuerdan de ella, puedan recordarme de la mejor manera posible.
+
+No soy la mejor persona y sé que las relaciones cambian. Las personas crecen, toman caminos diferentes y algunas veces dejan de formar parte de nuestras vidas. Pero eso no significa que las experiencias que vivimos dejen de haber sido reales.
+
+Quiero que puedan recordar las risas, los momentos y todo aquello que compartimos. Muchas de esas cosas quizá no vuelvan a repetirse de la misma manera cuando seamos adultos, porque nosotros mismos ya no seremos las mismas personas que fuimos en ese momento.
+
+Si algún día esa VivreCard sigue funcionando y ha sido cuidada durante muchos años, me gustaría que pudiera convertirse en un recuerdo de nuestra amistad y de nuestro vínculo.
+
+Y si algún día ya no somos amigos, o estamos muy separados, me gustaría que pudiera recordarles que el cariño que existió fue real.
+
+Al escribir esto también me di cuenta de algo que antes me daba miedo.
+
+Por momentos pensé que quizá una VivreCard tenía demasiado significado y que algún día no encontraría a alguien que realmente fuera digno de recibir algo así. Pero creo que nunca se pierde nada por amar, por querer o por haberle dado importancia a alguien.
+
+Incluso si en el futuro ya no somos nada, o simplemente me convierto en un recuerdo lejano de una etapa de su vida, me gustaría que pudiera recordar lo que existió en aquel momento.
+
+---
+
+## ¿Qué espero que sienta quien la recibe?
+
+Espero que sienta alegría y cariño, que se sienta valorado y que pueda ver todo lo que hice pensando en esa persona.
+
+No puedo decidir qué sentirá alguien al recibir una VivreCard, ni puedo saber cómo la verá después de cinco, diez o veinte años.
+
+Cada persona la recibirá de una manera diferente.
+
+Pero si logra entender su valor sentimental y lo que representa para mí, creo que eso sería suficiente.
+
+No necesito que la persona vea exactamente lo mismo que yo veo en ella.
+
+Solo quiero que pueda entender que fue hecha para ella y que detrás de ella existe tiempo, esfuerzo, cariño y una parte de mí.
+
+---
+
+## ¿Qué no es una VivreCard?
+
+Una VivreCard no es un objeto de venta.
+
+No es un producto y no existe con la intención de generar dinero. Su propósito es dar.
+
+Me gusta buscar la perfección y siempre intento entregar la mejor versión de las cosas que hago. Sé que ninguna creación es realmente perfecta y que siempre habrá detalles que podrían mejorarse, pero eso no significa que deje de intentar hacerla lo mejor posible.
+
+Tampoco busca sustituir una carta física, un origami o cualquier otro detalle. De hecho, la VivreCard será entregada junto con una carta y un origami.
+
+Sin embargo, tampoco considero que sea simplemente un complemento de ellos. Tiene su propia identidad.
+
+Incluso si la VivreCard contiene un código QR que lleva a una carta, un mensaje o cualquier otro contenido, ese contenido seguirá formando parte de la propia VivreCard y de la experiencia que quiero crear alrededor de ella.
+
+Los efectos visuales y los circuitos son importantes, pero no existen para demostrar conocimientos de electrónica ni para presumir lo que sé hacer.
+
+Existen porque la electrónica es una de mis pasiones y porque es una de las formas en las que sé expresar y compartir una parte de mí.
+
+Cada VivreCard será única. Ninguna será exactamente igual a otra.
+
+Puede utilizarse como una lámpara o simplemente como un objeto que se mantiene visible y se enciende cuando la persona quiera, pero su verdadero impacto no está en la luz que produce.
+
+Está en lo que representa.
+
+---
