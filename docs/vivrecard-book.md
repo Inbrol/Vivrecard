@@ -6,4 +6,4 @@
 
 ## Estado
 
-En desarrollo.
+En desarrollo
