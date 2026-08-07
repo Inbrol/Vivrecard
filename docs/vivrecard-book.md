@@ -205,7 +205,7 @@ Por eso la VivreCard está dividida en dos partes.
 
 No porque una sea la mitad de la otra, sino porque cada una representa a una persona y ambas se unen para formar algo que ninguna podría representar por sí sola.
 
---
+---
 
 ## ¿Qué significa que cada VivreCard sea única?
 
