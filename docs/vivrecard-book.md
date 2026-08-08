@@ -289,13 +289,23 @@ Está en lo que representa.
 
 ---
 
-## 3. Identidad
+# 3. Identidad
 
 ## Abbys
 
 ![Mi Flor](images/Flor.png)
 
-Mi flor se llama Abbys, como Abyss de abismo en ingles, el nombre esta vez no tiene nada simbolico por ahora, nomas me gusto y decidi dejarle asi. No recuerdo exactamente cuando la cree pero fue por mediados de 2023, por esos dias pasaba por muchas dudas respecto a mi personalidad y mi yo como persona y de ahi fue donde salio, en esos tiempos le decia la flor de la paz pero era por que simplemente no sabia que signficaba en un inicio, actualmente no lo se del todo pero se fue volviendo en algo que crecio conmigo. Abbys se basa en una flor de cerezo, antes en sus 5 petalos ponia arriba la inicial de los que en ese tiempo eran mis amistades mas cercanas y un lado de ellas mis emociones que sentia yo que me dominaban, claro con la inicial de esa emocion, no el nombre completo. Con el paso del tiempo y  luego de literalmente ponerla en cualquier cosa de valor, decidi quitar las inicial y las emociones y solo dejar la flor, un toipo de cierre para que esta vez, eso que cree fuera solo para mi y no estuviera ligada a otros. se ha vuelti un simbolo personal y verlo en todos mis proyectos personales me hace sentir que realmetne hice algo que tiene un valor real para mi. 
+Mi flor se llama Abbys, como Abyss, que significa "abismo" en inglés. El nombre no tiene ningún significado simbólico por ahora; simplemente me gustó y decidí dejarle así.
+
+No recuerdo exactamente cuándo la creé, pero fue aproximadamente a mediados de 2023. Por esos días pasaba por muchas dudas respecto a mi personalidad y a mi identidad como persona, y de ahí fue de donde surgió. En esos tiempos la llamaba "la flor de la paz", aunque era simplemente porque todavía no sabía qué significaba para mí.
+
+Actualmente tampoco sé completamente qué representa, pero se fue convirtiendo en algo que creció conmigo.
+
+Abbys está basada en una flor de cerezo. Al principio, en sus cinco pétalos colocaba las iniciales de quienes en ese momento eran mis amistades más cercanas y, a un lado de ellas, las emociones que sentía que me dominaban, representadas también mediante sus iniciales y no con el nombre completo.
+
+Con el paso del tiempo, y después de literalmente ponerla en cualquier cosa que tuviera un valor para mí, decidí quitar las iniciales y las emociones y dejar únicamente la flor. Fue una especie de cierre: esta vez quería que aquello que había creado fuera solamente para mí y que no estuviera ligado a otras personas.
+
+Con el tiempo se convirtió en un símbolo personal. Verla en mis proyectos personales me hace sentir que realmente hice algo que tiene un valor real para mí.
 
 ---
 
@@ -303,7 +313,9 @@ Mi flor se llama Abbys, como Abyss de abismo en ingles, el nombre esta vez no ti
 
 ![Mi Firma](images/Firma.png)
 
-Desde que empece a diseñar cualquier cosa que haga por mi cuenta me gusta agregarle mi firma, para que sepan que fui el creador y es algo personal mio, es la mejor forma de poner mi nombre sin ser un simple texto que lo tenga, que este en la pcb solo remarca que es un proyecto mio, algo que yo hice solo y que desarrolle por mi cuenta.
+Desde que empecé a diseñar cualquier cosa que hago por mi cuenta, me gusta agregarle mi firma. Es una forma de dejar claro quién fue el creador y de hacer que el proyecto sea algo personal.
+
+También es una forma de poner mi nombre sin que sea simplemente un texto que lo muestre. Que mi firma esté presente en la PCB remarca que es un proyecto mío, algo que hice y desarrollé por mi cuenta.
 
 ---
 
@@ -311,50 +323,46 @@ Desde que empece a diseñar cualquier cosa que haga por mi cuenta me gusta agreg
 
 ![Orión](images/Orion..png)
 
-Algo que siempre me ha interesado es la astronomia y la primera constelacion que miraba sin saberlo era Orion, cuando me fui interesando mas las estrellas pude identificar muchas constelaciones pero orion siempre me fasino, es mi favorita por su historia que une a las plyadas y a tauro y por que contiene estrellas muy hermosas como betelges o su cinturon, sin lugar a dudas me gusta ponarlas en mis proyectos por que mi firma termina en 3 puntos y a veces las uso como si fueran su cinturon y por que simplemente es algo que me gusta mucho, si pongo a Abbys, trato de agregar a Orion tambien.
+Algo que siempre me ha interesado es la astronomía, y la primera constelación que miraba sin saberlo era Orión. Cuando comencé a interesarme más por las estrellas pude identificar muchas otras constelaciones, pero Orión siempre me fascinó.
+
+Es mi constelación favorita por su historia, que une a las Pléyades y a Tauro, y porque contiene estrellas que me parecen muy hermosas, como Betelgeuse y las que forman su cinturón.
+
+Sinceramente, me gusta ponerla en mis proyectos porque mi firma termina en tres puntos y, en ocasiones, los utilizo como si fueran su cinturón. También está presente simplemente porque es algo que me gusta mucho.
+
+Si pongo a Abbys, trato de agregar a Orión también.
 
 ---
 
 ## Mac DeMarco
 
+![Salad Days](images/Saladay.png)
 
+![Mac DeMarco](images/Macdemarco.jpg)
 
+Todos mis conocidos saben que mi cantante favorito es Mac DeMarco. En general, me parece una persona muy interesante y única. Sus canciones son algunas de mis favoritas, y muchas de sus letras han logrado hacerme identificar, llorar o ponerme feliz.
 
+Desde que me hice su fan, literalmente me han gustado casi todas sus canciones. Salad Days es el álbum que contiene más canciones que me gustan, desde sus instrumentales hasta sus letras profundas y llenas de significado.
 
+Por eso quise ponerlo en mi proyecto: para que permaneciera como parte de él y mostrara a una persona que me inspira y conmueve el corazón por su simpleza y originalidad.
 
+---
 
+## One Piece
 
+![One Piece](images/Luffy.jpg)
 
+One Piece es un tema muy extenso para mí. Todo de él me encanta y creo que, sin lugar a duda, mi proyecto tenía que tener al menos algo de él.
 
+Luffy y otros personajes me conmueven y me hacen querer perseguir mis sueños. La verdad, explicar la felicidad que me genera este anime es complicado, y cuando Luffy encuentre el One Piece, se convierta en el Rey de los Piratas y finalmente se conozca lo que ocurrió durante el Siglo Vacío, sin duda entenderé todavía más por qué esta obra es tan apreciada para mí.
 
+Quiero que todas mis versiones tengan algo que me permita recordar que One Piece siempre estuvo presente durante etapas importantes de mi vida.
 
+El motivo por el que escogí ese nombre, además de que sentía que quedaba perfecto y era bonito, es por el concepto de las Vivre Cards dentro de One Piece: como la Vivre Card siempre apunta hacia su dueño, quiero que quien tenga una VivreCard, al verla, también me recuerde; que apunte hacia mí y lo dirija a los recuerdos que tuvo conmigo.
 
+---
 
+## Lo que quiero conservar
 
+Sin lugar a duda, si en un futuro hago una nueva versión de una VivreCard, desearía que siempre conserve estos pilares: mi Abbys, mi firma, Orión y algo alusivo a One Piece y a Mac DeMarco.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
