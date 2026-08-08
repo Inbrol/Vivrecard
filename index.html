@@ -1,1 +1,335 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VivreCard · Un recuerdo hecho para ti</title>
 
+    <!-- Fuente limpia y legible -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet" />
+
+    <style>
+        /* --- Reset y base --- */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #faf8f5;
+            color: #1e1e1e;
+            line-height: 1.6;
+            padding: 2rem 1.5rem;
+            max-width: 880px;
+            margin: 0 auto;
+        }
+
+        /* --- Tipografía y espacio --- */
+        h1, h2, h3 {
+            font-weight: 400;
+            letter-spacing: -0.01em;
+        }
+
+        h1 {
+            font-size: 2.8rem;
+            font-weight: 300;
+            margin-top: 0.2rem;
+            margin-bottom: 0.2rem;
+        }
+
+        .subhead {
+            font-size: 1.2rem;
+            color: #5a5a5a;
+            margin-bottom: 2.5rem;
+            border-bottom: 1px solid #e0dbd4;
+            padding-bottom: 1.5rem;
+        }
+
+        h2 {
+            font-size: 1.6rem;
+            margin-top: 3rem;
+            margin-bottom: 0.8rem;
+            font-weight: 350;
+        }
+
+        h3 {
+            font-size: 1.2rem;
+            font-weight: 400;
+            margin-top: 1.8rem;
+            margin-bottom: 0.4rem;
+        }
+
+        p {
+            margin-bottom: 1.2rem;
+            color: #2c2c2c;
+        }
+
+        a {
+            color: #1e1e1e;
+            text-decoration: none;
+            border-bottom: 1px solid #c0b8ae;
+            transition: border-color 0.2s;
+        }
+
+        a:hover {
+            border-bottom-color: #1e1e1e;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #e0dbd4;
+            margin: 2.5rem 0;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+            margin-bottom: 1.5rem;
+        }
+
+        ul li {
+            margin-bottom: 0.5rem;
+            padding-left: 1.2rem;
+            position: relative;
+        }
+
+        ul li::before {
+            content: "—";
+            position: absolute;
+            left: 0;
+            color: #a0988a;
+        }
+
+        /* --- Tarjetas en dos columnas --- */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.8rem;
+            margin: 1.8rem 0 2rem;
+        }
+
+        .card {
+            background: #ffffff;
+            padding: 1.8rem 1.8rem 2rem;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+            border: 1px solid #ece7e0;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        .card:hover {
+            border-color: #c8bfb4;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.03);
+        }
+
+        .card h3 {
+            margin-top: 0;
+            font-weight: 450;
+            font-size: 1.3rem;
+        }
+
+        .card p {
+            font-size: 0.95rem;
+            color: #3d3d3d;
+            margin-bottom: 1rem;
+        }
+
+        .card .link {
+            font-size: 0.9rem;
+            border-bottom: 1px solid #c0b8ae;
+        }
+
+        /* --- Identidad visual (sin emojis) --- */
+        .sig {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.8rem 3rem;
+            margin: 2.2rem 0 1.5rem;
+            padding: 1.5rem 0 1rem;
+            border-top: 1px solid #e0dbd4;
+            border-bottom: 1px solid #e0dbd4;
+            font-size: 0.9rem;
+            color: #5a5a5a;
+            justify-content: center;
+        }
+
+        .sig-item {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .sig-item .icono-texto {
+            font-size: 1.2rem;
+            font-weight: 300;
+            color: #1e1e1e;
+        }
+
+        .firma-placeholder {
+            font-family: 'Georgia', serif;
+            font-style: italic;
+            font-size: 1.1rem;
+            color: #1e1e1e;
+        }
+
+        /* --- Footer --- */
+        .footer {
+            margin-top: 3rem;
+            font-size: 0.85rem;
+            color: #777;
+            text-align: center;
+            border-top: 1px solid #e0dbd4;
+            padding-top: 2rem;
+        }
+
+        .footer .marca {
+            font-size: 1.8rem;
+            line-height: 1;
+            margin-bottom: 0.3rem;
+            font-weight: 200;
+            letter-spacing: 4px;
+        }
+
+        /* --- Responsive --- */
+        @media (max-width: 600px) {
+            body { padding: 1.2rem; }
+            h1 { font-size: 2.2rem; }
+            .grid-2 { grid-template-columns: 1fr; }
+            .subhead { font-size: 1rem; }
+            .sig { gap: 1rem 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ============ ENCABEZADO ============ -->
+    <header>
+        <h1>VivreCard</h1>
+        <div class="subhead">Un recuerdo hecho para ti</div>
+    </header>
+
+    <!-- ============ INTRODUCCIÓN ============ -->
+    <section>
+        <p style="font-size:1.1rem; font-weight:350;">
+            Esto no es solo una placa con luces. Es una parte de mí que quiero compartir contigo.
+        </p>
+        <p>
+            Cada VivreCard está pensada, dibujada y construida a mano, desde el primer esquema hasta el último LED.
+            Lleva mi firma, mi flor, mis constelaciones y las historias que me gustan.
+            Pero, sobre todo, lleva el tiempo que dediqué a pensar en ti.
+        </p>
+    </section>
+
+    <hr />
+
+    <!-- ============ SUS DOS PARTES ============ -->
+    <h2>Sus dos partes</h2>
+    <p style="margin-bottom:1.5rem;">
+        Una VivreCard se divide en dos placas que, juntas, forman un solo objeto.
+        Cada una tiene su propio significado.
+    </p>
+
+    <div class="grid-2">
+        <!-- VivreCore -->
+        <div class="card">
+            <h3>VivreCore</h3>
+            <p>
+                El corazón del proyecto. Aquí está la batería, la carga, el regulador y el circuito
+                que hace respirar los LEDs. En su serigrafía están mis símbolos: Abbys, Orión,
+                <em>Salad Days</em> y la huella de <em>One Piece</em>.
+            </p>
+            <a href="#" class="link">Conocer VivreCore →</a>
+        </div>
+
+        <!-- PCB A -->
+        <div class="card">
+            <h3>PCB A</h3>
+            <p>
+                La parte que te representa a ti. Lleva tu inicial formada por LEDs con efecto
+                de respiración, y un arreglo de luces alrededor que he elegido especialmente
+                para ti. Cada PCB A es única, como nuestra relación.
+            </p>
+            <a href="#" class="link">Conocer PCB A →</a>
+        </div>
+    </div>
+
+    <hr />
+
+    <!-- ============ USO Y CUIDADOS ============ -->
+    <h2>Uso y cuidados</h2>
+    <p>
+        Para que tu VivreCard te acompañe durante mucho tiempo, solo necesitas tener en cuenta
+        unos pequeños detalles:
+    </p>
+
+    <ul>
+        <li>La batería se carga con un cable USB-C (no incluido).</li>
+        <li>El interruptor de la parte inferior enciende y apaga la placa.</li>
+        <li>Evita la humedad y las temperaturas extremas.</li>
+        <li>Puedes dejarla encendida como lámpara o guardarla y encenderla de vez en cuando.</li>
+    </ul>
+
+    <p>
+        <a href="#">Leer más sobre cuidados y funcionamiento →</a>
+    </p>
+
+    <hr />
+
+    <!-- ============ PARA TI ============ -->
+    <h2>Para ti</h2>
+    <p>
+        Si estás leyendo esto, es porque has recibido una VivreCard.
+        Quiero que sepas que, mientras la diseñaba y construía, pensaba en los momentos
+        que hemos compartido y en la persona que eres.
+    </p>
+    <p>
+        Este objeto no pretende ser perfecto, ni durar para siempre.
+        Pero sí pretende ser un recordatorio de que, en algún momento de nuestras vidas,
+        hubo una conexión real.
+    </p>
+    <p style="margin-top:1.8rem; font-style:italic; color:#4a4a4a;">
+        “Lo esencial es invisible a los ojos.”<br />
+        <span style="font-style:normal; font-size:0.9rem;">— El Principito</span>
+    </p>
+
+    <!-- ============ IDENTIDAD VISUAL (sin emojis, solo tipografía) ============ -->
+    <div class="sig">
+        <div class="sig-item">
+            <span class="icono-texto">✦</span>
+            <span>Abbys</span>
+        </div>
+        <div class="sig-item">
+            <span class="firma-placeholder">~ J</span>
+            <span>Firma</span>
+        </div>
+        <div class="sig-item">
+            <span class="icono-texto">⋆ · ⋆ · ⋆</span>
+            <span>Orión</span>
+        </div>
+        <div class="sig-item">
+            <span class="icono-texto">♢</span>
+            <span>Salad Days</span>
+        </div>
+        <div class="sig-item">
+            <span class="icono-texto">⌘</span>
+            <span>One Piece</span>
+        </div>
+    </div>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="footer">
+        <div class="marca">✦ ✦ ✦</div>
+        <p style="margin-bottom:0.2rem;">
+            VivreCard · Un proyecto personal hecho con cuidado.
+        </p>
+        <p style="font-size:0.75rem; color:#999;">
+            Hecho por mí, para ti.
+        </p>
+    </footer>
+
+</body>
+</html>
