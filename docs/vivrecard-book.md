@@ -293,20 +293,29 @@ Está en lo que representa.
 
 ## Abbys
 
+![Mi Flor](images/Flor.png)
 
+Mi flor se llama Abbys, como Abyss de abismo en ingles, el nombre esta vez no tiene nada simbolico por ahora, nomas me gusto y decidi dejarle asi. No recuerdo exactamente cuando la cree pero fue por mediados de 2023, por esos dias pasaba por muchas dudas respecto a mi personalidad y mi yo como persona y de ahi fue donde salio, en esos tiempos le decia la flor de la paz pero era por que simplemente no sabia que signficaba en un inicio, actualmente no lo se del todo pero se fue volviendo en algo que crecio conmigo. Abbys se basa en una flor de cerezo, antes en sus 5 petalos ponia arriba la inicial de los que en ese tiempo eran mis amistades mas cercanas y un lado de ellas mis emociones que sentia yo que me dominaban, claro con la inicial de esa emocion, no el nombre completo. Con el paso del tiempo y  luego de literalmente ponerla en cualquier cosa de valor, decidi quitar las inicial y las emociones y solo dejar la flor, un toipo de cierre para que esta vez, eso que cree fuera solo para mi y no estuviera ligada a otros. se ha vuelti un simbolo personal y verlo en todos mis proyectos personales me hace sentir que realmetne hice algo que tiene un valor real para mi. 
 
+---
 
+## Mi firma
 
+![Mi Firma](images/Frima.png)
 
+Desde que empece a diseñar cualquier cosa que haga por mi cuenta me gusta agregarle mi firma, para que sepan que fui el creador y es algo personal mio, es la mejor forma de poner mi nombre sin ser un simple texto que lo tenga, que este en la pcb solo remarca que es un proyecto mio, algo que yo hice solo y que desarrolle por mi cuenta.
 
+---
 
+## Orión
 
+![Orión](images/Orion..png)
 
+Algo que siempre me ha interesado es la astronomia y la primera constelacion que miraba sin saberlo era Orion, cuando me fui interesando mas las estrellas pude identificar muchas constelaciones pero orion siempre me fasino, es mi favorita por su historia que une a las plyadas y a tauro y por que contiene estrellas muy hermosas como betelges o su cinturon, sin lugar a dudas me gusta ponarlas en mis proyectos por que mi firma termina en 3 puntos y a veces las uso como si fueran su cinturon y por que simplemente es algo que me gusta mucho, si pongo a Abbys, trato de agregar a Orion tambien.
 
+---
 
-
-
-
+## Mac DeMarco
 
 
 
