@@ -335,8 +335,6 @@ Si pongo a Abbys, trato de agregar a Orión también.
 
 ## Mac DeMarco
 
-![Salad Days](images/Saladay.png)
-
 ![Mac DeMarco](images/Macdemarco.jpg)
 
 Todos mis conocidos saben que mi cantante favorito es Mac DeMarco. En general, me parece una persona muy interesante y única. Sus canciones son algunas de mis favoritas, y muchas de sus letras han logrado hacerme identificar, llorar o ponerme feliz.
