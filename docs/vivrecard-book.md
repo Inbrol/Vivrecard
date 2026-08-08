@@ -301,7 +301,7 @@ Mi flor se llama Abbys, como Abyss de abismo en ingles, el nombre esta vez no ti
 
 ## Mi firma
 
-![Mi Firma](images/Frima.png)
+![Mi Firma](images/Firma.png)
 
 Desde que empece a diseñar cualquier cosa que haga por mi cuenta me gusta agregarle mi firma, para que sepan que fui el creador y es algo personal mio, es la mejor forma de poner mi nombre sin ser un simple texto que lo tenga, que este en la pcb solo remarca que es un proyecto mio, algo que yo hice solo y que desarrolle por mi cuenta.
 
